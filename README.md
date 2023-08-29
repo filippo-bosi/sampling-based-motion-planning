@@ -1,5 +1,5 @@
 # sampling-based-motion-planning
-<img src="https://drive.google.com/uc?export=view&id=1Ugm9P0lDzkU5sWoZUj4w4Kbvps_e_cNO" width="20%" alt="alternative sampling-based algorithm (1.1)">&nbsp;&nbsp;&nbsp;<img src="https://drive.google.com/uc?export=view&id=14lm1dkBNIb7G6PGfRDbXj9jMlpHkUaxQ" width="20%" alt="algorithm exploiting domain knowledge (1.2)">&nbsp;&nbsp;&nbsp;<img src="https://drive.google.com/uc?export=view&id=1dOsIUqIaLRLlCcpyDmYNkjnXz-RlrTMI" width="20%" alt="RRT (1.3)">
+<img src="https://drive.google.com/uc?export=view&id=1Ugm9P0lDzkU5sWoZUj4w4Kbvps_e_cNO" width="30%" alt="alternative sampling-based algorithm (1.1)">&nbsp;&nbsp;&nbsp;<img src="https://drive.google.com/uc?export=view&id=14lm1dkBNIb7G6PGfRDbXj9jMlpHkUaxQ" width="30%" alt="algorithm exploiting domain knowledge (1.2)">&nbsp;&nbsp;&nbsp;<img src="https://drive.google.com/uc?export=view&id=1dOsIUqIaLRLlCcpyDmYNkjnXz-RlrTMI" width="30%" alt="RRT (1.3)">
 
 *This was the main project of the course "Robot Task and Motion Planning" at KAIST.*
 
